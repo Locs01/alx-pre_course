@@ -1,0 +1,5 @@
+Auto-merging 0x01-git/bash/alx
+CONFLICT (content): Merge conflict in 0x01-git/bash/alx
+CONFLICT (add/add): Merge conflict in 0x01-git/bash/.alx.swp
+Auto-merging 0x01-git/bash/.alx.swp
+Automatic merge failed; fix conflicts and then commit the result.
